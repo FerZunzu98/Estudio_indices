@@ -1,0 +1,31 @@
+Símbolo,Nombre de la empresa,Último precio,Cambio,Cambio de %,Volumen
+AMS.MC,"Amadeus IT Group, S.A.",6364,0,"0,00%",790.0
+MTS.MC,ArcelorMittal S.A.,2541,0,"-0,02%",2.06
+IAG.MC,International Consolidated Airlines Group S.A.,17685,10,"+0,06%",3.0
+NTGY.MC,"Naturgy Energy Group, S.A.",2704,-2,"-0,07%",3.63
+IBE.MC,"Iberdrola, S.A.",1199,-4,"-0,33%",330.0
+AENA.MC,"Aena S.M.E., S.A.",16175,55,"+0,34%",5.1
+RED.MC,"Redeia Corporación, S.A.",1494,6,"+0,37%",670.0
+ELE.MC,"Endesa, Sociedad Anonima",1923,8,"+0,39%",370.0
+SAN.MC,"Banco Santander, S.A.",39295,170,"+0,43%",260.0
+ACX.MC,"Acerinox, S.A.",1037,5,"+0,44%",16.21
+FDR.MC,"Fluidra, S.A.",1856,-11,"-0,59%",4.97
+ENG.MC,"Enagás, S.A.",1562,-10,"-0,67%",6.43
+ACS.MC,"ACS, Actividades de Construcción y Servicios, S.A.",3998,28,"+0,71%",10.0
+LOG.MC,"Compañía de Distribución Integral Logista Holdings, S.A.",2518,18,"+0,72%",1.94
+ANA.MC,"Acciona, S.A.",12580,-95,"-0,75%",1.74
+BKT.MC,"Bankinter, S.A.",618,6,"+0,95%",10.0
+CLNX.MC,"Cellnex Telecom, S.A.",3501,33,"+0,95%",3.82
+SAB.MC,"Banco de Sabadell, S.A.",12340,125,"+1,02%",188.83
+TEF.MC,"Telefónica, S.A.",37320,380,"+1,03%",2.39
+BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",860,9,"+1,03%",110.0
+FER.MC,Ferrovial SE,3369,36,"+1,08%",20.52
+MEL.MC,"Meliá Hotels International, S.A.",595,6,"+1,10%",130.0
+CABK.MC,"CaixaBank, S.A.",40580,470,"+1,17%",156.82
+ITX.MC,"Industria de Diseño Textil, S.A.",3807,45,"+1,20%",2.93
+MRL.MC,"MERLIN Properties SOCIMI, S.A.",960,-12,"-1,29%",29.89
+MAP.MC,"Mapfre, S.A.",20280,260,"+1,30%",57.61
+UNI.MC,"Unicaja Banco, S.A.",9375,140,"+1,52%",63.44
+ANE.MC,"Corporación Acciona Energías Renovables, S.A.",2572,-46,"-1,76%",8.36
+GRF.MC,"Grifols, S.A.",1424,-33,"-2,26%",37.06
+COL.MC,"Inmobiliaria Colonial, SOCIMI, S.A.",618,-16,"-2,53%",16.45
